@@ -1,0 +1,13 @@
+misc/bit_stream.c
+main.c
+encode/encode.c
+decode/decode.c
+encode/encode_strategy.c
+tree/internal_trie.c
+encode/minimum_cuts.c
+tree/node.c
+tree/node_array_list.c
+tree/tree.c
+encode/trie.c
+misc/util.c
+../tests/test.c
